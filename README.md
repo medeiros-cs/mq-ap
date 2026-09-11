@@ -3,8 +3,8 @@
 Repositório das avaliações práticas (AP1, AP2, AP3) da disciplina Métodos
 Quantitativos em Computação (T199), baseadas na base Ames Housing.
 
-- **Integrantes:** TODO — nome completo e matrícula de cada integrante
-- **Turma:** TODO (T199-64 ou T199-65)
+- **Integrantes:** Adriel Medeiros Lins
+- **Turma:** T199-64
 - **Característica qualitativa $B$ atribuída:** TODO
 
 ## Estrutura do repositório
