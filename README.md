@@ -5,7 +5,8 @@ Quantitativos em Computação (T199), baseadas na base Ames Housing.
 
 - **Integrantes:** Adriel Medeiros Lins
 - **Turma:** T199-64
-- **Característica qualitativa $B$ atribuída:** TODO
+- **Característica qualitativa $B$ atribuída:** Qualidade da cozinha (`Kitchen Qual`)
+- **Repositório:** <https://github.com/medeiros-cs/mq-ap>
 
 ## Estrutura do repositório
 
