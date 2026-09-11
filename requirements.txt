@@ -1,0 +1,10 @@
+# Notebooks e análise estatística
+ipykernel
+jupyter
+matplotlib
+numpy
+pandas
+patsy
+scipy
+seaborn
+statsmodels

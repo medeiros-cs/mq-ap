@@ -1,0 +1,16 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+
+# Credenciais
+.env
+
+# Local notebooks
+classes-notebooks/
