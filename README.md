@@ -29,7 +29,11 @@ notebooks/
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+nbstripout --install --attributes .gitattributes
 ```
+
+O último passo registra um filtro git que remove automaticamente as saídas dos
+notebooks antes de cada commit, mantendo o repositório apenas com código.
 
 ## Execução
 

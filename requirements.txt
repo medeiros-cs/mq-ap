@@ -8,3 +8,6 @@ patsy
 scipy
 seaborn
 statsmodels
+
+# Controle de versão
+nbstripout
